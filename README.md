@@ -3,14 +3,15 @@ Um projeto para aplicar meus conhecimentos básicos de Spring
 
 
 ## 🖥Tecnologias Utilizadas
-- [Spring](https://spring.io/)
+- [Spring 3](https://spring.io/)
   - Spring Web
   - Spring Security
   - Spring Data JPA
 - [Lombok](https://projectlombok.org/)
 - [Hibernate](https://hibernate.org/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [PostgreSQL 16](https://www.postgresql.org/)
 - [JWT](https://jwt.io/)
+- [Java 17](https://www.java.com/pt-BR/)
 
 ## Padrões de projeto utilizados
 - DTOs
