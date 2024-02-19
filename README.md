@@ -28,3 +28,6 @@ Este projeto foi criado para que eu possa praticar os conhecimentos aprendidos s
 os métodos POST, PUT, GET e DELETE, a estrutura de pastas está um pouco misturada entre Package by Layer and Feature. A API tem autentiação com Spring Security e Token JWT, também
 foi criado um sistema de ROLES possuindo ADMIN e USER.
 
+## Estrutura de pastas
+![Arquitetura](https://github.com/enuchsa/spring-app/blob/master/Estrutura%20do%20projeto.png)
+
